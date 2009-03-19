@@ -1,0 +1,8 @@
+opOpenSocialPlugin:
+  version: 0.8.2
+
+opDiaryPlugin:
+  version: 0.8.1
+
+opMessagePlugin:
+  version: 0.8.1
