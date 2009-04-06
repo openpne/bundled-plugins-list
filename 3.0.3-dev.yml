@@ -20,7 +20,7 @@ opAuthOpenIDPlugin:
   version: 1.0.0
 
 opCommunityTopicPlugin:
-  version: 0.8.0
+  version: 0.8.1
 
 opIntroFriendPlugin:
   version: 0.8.0
