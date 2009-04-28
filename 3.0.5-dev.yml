@@ -5,7 +5,7 @@ opDiaryPlugin:
   version: 0.8.1
 
 opMessagePlugin:
-  version: 0.8.1
+  version: 0.8.2
 
 opAshiatoPlugin:
   version: 0.8.0
