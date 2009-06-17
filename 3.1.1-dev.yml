@@ -11,4 +11,4 @@ opCommunityTopicPlugin:
   version: 0.9.0
 
 opWebAPIPlugin:
-  version: 0.3.0
+  version: 0.3.1
