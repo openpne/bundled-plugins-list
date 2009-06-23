@@ -1,0 +1,29 @@
+opOpenSocialPlugin:
+  version: 0.8.2
+
+opDiaryPlugin:
+  version: 0.8.1
+
+opMessagePlugin:
+  version: 0.8.2
+
+opAshiatoPlugin:
+  version: 0.8.0
+
+opAuthMailAddressPlugin:
+  version: 1.0.0
+
+opAuthMobileUIDPlugin:
+  version: 1.0.0
+
+opAuthOpenIDPlugin:
+  version: 1.0.0
+
+opCommunityTopicPlugin:
+  version: 0.8.1
+
+opIntroFriendPlugin:
+  version: 0.8.0
+
+opWebAPIPlugin:
+  version: 0.1.0
