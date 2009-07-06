@@ -8,7 +8,7 @@ opAuthOpenIDPlugin:
   version: 1.0.0
 
 opCommunityTopicPlugin:
-  version: 0.9.0
+  version: 0.9.1
 
 opWebAPIPlugin:
   version: 0.3.4
