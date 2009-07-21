@@ -12,3 +12,9 @@ opCommunityTopicPlugin:
 
 opWebAPIPlugin:
   version: 0.3.4
+
+opDiaryPlugin:
+  version: 0.9.0
+
+opBlogPlugin:
+  version: 0.9.0
