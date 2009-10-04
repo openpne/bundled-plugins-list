@@ -18,3 +18,9 @@ opDiaryPlugin:
 
 opBlogPlugin:
   version: 0.9.0
+
+opOpenSocialPlugin:
+  version: 0.9.0
+
+opAshiatoPlugin:
+  version: 0.9.0
