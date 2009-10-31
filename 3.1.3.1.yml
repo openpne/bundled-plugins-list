@@ -14,13 +14,13 @@ opWebAPIPlugin:
   version: 0.3.8
 
 opDiaryPlugin:
-  version: 0.9.1.2
+  version: 0.9.0
 
 opBlogPlugin:
   version: 0.9.0
 
 opOpenSocialPlugin:
-  version: 0.9.1
+  version: 0.9.0
 
 opAshiatoPlugin:
   version: 0.9.0
