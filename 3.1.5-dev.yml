@@ -24,3 +24,9 @@ opOpenSocialPlugin:
 
 opAshiatoPlugin:
   version: 0.9.0
+
+opMessagePlugin:
+  version: 0.9.0
+
+opAlbumPlugin:
+  version: 0.9.0
