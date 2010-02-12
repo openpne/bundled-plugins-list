@@ -1,0 +1,32 @@
+opAuthMailAddressPlugin:
+  version: 1.2.1
+
+opAuthMobileUIDPlugin:
+  version: 1.0.0
+
+opAuthOpenIDPlugin:
+  version: 1.1.1
+
+opCommunityTopicPlugin:
+  version: 0.9.6
+
+opWebAPIPlugin:
+  version: 0.3.9
+
+opDiaryPlugin:
+  version: 1.1.2
+
+opBlogPlugin:
+  version: 0.9.0
+
+opOpenSocialPlugin:
+  version: 0.9.4
+
+opAshiatoPlugin:
+  version: 0.9.0
+
+opMessagePlugin:
+  version: 0.9.0.2
+
+opAlbumPlugin:
+  version: 0.9.3
