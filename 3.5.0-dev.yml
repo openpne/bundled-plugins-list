@@ -1,5 +1,5 @@
 opAuthMailAddressPlugin:
-  version: 1.2.0
+  version: 1.2.1
 
 opAuthMobileUIDPlugin:
   version: 1.0.0
@@ -17,10 +17,10 @@ opDiaryPlugin:
   version: 1.1.2
 
 opBlogPlugin:
-  version: 0.9.0
+  version: 1.0.1
 
 opOpenSocialPlugin:
-  version: 0.9.4
+  version: 1.0.0
 
 opAshiatoPlugin:
   version: 0.9.0
@@ -29,4 +29,4 @@ opMessagePlugin:
   version: 0.9.0.3
 
 opAlbumPlugin:
-  version: 0.9.1
+  version: 0.9.4
