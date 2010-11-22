@@ -20,7 +20,7 @@ opBlogPlugin:
   version: 0.9.0
 
 opOpenSocialPlugin:
-  version: 0.9.9
+  version: 0.9.9.1
 
 opAshiatoPlugin:
   version: 0.9.0
