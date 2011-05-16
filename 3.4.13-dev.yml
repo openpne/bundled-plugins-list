@@ -2,7 +2,7 @@ opAuthMailAddressPlugin:
   version: 1.2.1
 
 opAuthMobileUIDPlugin:
-  version: 1.0.0
+  version: 1.0.0.1
 
 opAuthOpenIDPlugin:
   version: 1.1.1
