@@ -14,7 +14,7 @@ opWebAPIPlugin:
   version: 0.5.0
 
 opDiaryPlugin:
-  version: 1.3.2
+  version: 1.3.2.1
 
 opBlogPlugin:
   version: 1.0.1
