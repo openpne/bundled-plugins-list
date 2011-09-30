@@ -8,13 +8,13 @@ opAuthOpenIDPlugin:
   version: 1.3.0
 
 opCommunityTopicPlugin:
-  version: 1.0.2
+  version: 1.0.2.2
 
 opWebAPIPlugin:
   version: 0.5.1
 
 opDiaryPlugin:
-  version: 1.4.0
+  version: 1.4.0.1
 
 opBlogPlugin:
   version: 1.0.1
