@@ -2,13 +2,13 @@ opAuthMailAddressPlugin:
   version: 1.2.1
 
 opAuthMobileUIDPlugin:
-  version: 1.0.0.1
+  version: 1.0.1
 
 opAuthOpenIDPlugin:
   version: 1.1.1
 
 opCommunityTopicPlugin:
-  version: 0.9.8.1
+  version: 0.9.9
 
 opWebAPIPlugin:
   version: 0.5.1
