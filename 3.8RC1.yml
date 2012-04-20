@@ -1,0 +1,8 @@
+opAuthMailAddressPlugin:
+  version: 1.3.5
+
+opTimelinePlugin:
+  version: 0.9.1
+
+opMessagePlugin:
+  version: 1.0.0
