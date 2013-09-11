@@ -11,7 +11,7 @@ opCommunityTopicPlugin:
   version: 1.0.5
 
 opWebAPIPlugin:
-  version: 0.5.1
+  version: 0.5.1.1
 
 opDiaryPlugin:
   version: 1.4.1
@@ -20,7 +20,7 @@ opBlogPlugin:
   version: 1.0.1
 
 opOpenSocialPlugin:
-  version: 1.2.6
+  version: 1.2.6.1
 
 opAshiatoPlugin:
   version: 1.1.1

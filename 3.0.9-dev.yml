@@ -1,14 +1,14 @@
 opOpenSocialPlugin:
-  version: 0.8.2.2
+  version: 0.8.2.3
 
 opDiaryPlugin:
   version: 0.8.1
 
 opMessagePlugin:
-  version: 0.8.2.3
+  version: 0.8.2.4
 
 opAshiatoPlugin:
-  version: 0.8.0
+  version: 0.8.0.1
 
 opAuthMailAddressPlugin:
   version: 1.0.0
@@ -26,4 +26,4 @@ opIntroFriendPlugin:
   version: 0.8.0.1
 
 opWebAPIPlugin:
-  version: 0.1.0
+  version: 0.1.0.1
